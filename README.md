@@ -1,2 +1,1 @@
-# code-wars
-Repo for daily code-wars challenges
+Phelan's CodeWars repository - 301: October 2017
