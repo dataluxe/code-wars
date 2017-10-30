@@ -1,0 +1,1 @@
+fixTheMeerkat = (arr) => arr.reverse();
